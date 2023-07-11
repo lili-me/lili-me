@@ -4,8 +4,8 @@
 From ‘engineering’ stories and jumpers to engineering custom ETL pipelines, creating databases and developing cloud-based solutions on AWS!
 <br /><br>
 
-- 🔭 I excelled in coding and data processing during <a href="https://uk.generation.org/london/data-engineering/">Generation UK and Ireland Data Engineering programme</a>.
-- ✨ You should check <a href="https://github.com/lili-me/final_project_generation_uk_ireland_data_engineering_programme">my group project!</a>
+- 🔭 I excelled in coding and data processing during <a href="https://uk.generation.org/london/data-engineering/">Generation UK and Ireland Data Engineering programme</a>. You should check <a href="https://github.com/lili-me/final_project_generation_uk_ireland_data_engineering_programme">my group project</a>!
+- ✨ I also completed my project for <a href="https://github.com/lili-me/accenture_data_analytics_and_visualisation_virtual_experience_programme"> Accenture Data Analytics and Visualization Virtual Experience</a>! (The project is normally based on Microsoft Excel, but I used Pandas on Jupyter Notebook(to self-teach), PostgreSQL and Grafana for data cleaning, modelling, analysis and visualisation processes.) 
 - 🥅 I can dive into the details to solve a problem, but I am also a critical thinker when it comes to seeing the bigger picture.
 - 💬 I have strong communication skills and enjoy presenting complex ideas using visual aids.
 - 🌱 I would like to learn more and develop myself more in a Data Engineer role. 
